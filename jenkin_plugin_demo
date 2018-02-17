@@ -1,0 +1,4 @@
+#! /bin/bash
+mkdir /tmp/mydirectory
+touch /tmp/mydirectory/mologs
+echo "This is successfull build"
